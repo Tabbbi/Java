@@ -6,8 +6,8 @@ public class Main {
 		Parkhaus p1 = new Parkhaus(100, 5);
 		p1.addCar(5);
 		p1.addCar(6);
+		p1.trafficlight();
 		p1.show();
-		p1.trafficLight();
 
 	}
 }
