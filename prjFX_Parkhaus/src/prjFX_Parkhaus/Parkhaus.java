@@ -1,4 +1,4 @@
-package prj_Parkhaus;
+package prjFX_Parkhaus;
 
 public class Parkhaus {
 	private Car[] places;

@@ -1,4 +1,4 @@
-package prj_Parkhaus;
+package prjFX_Parkhaus;
 
 public class Main {
 	public static void main(String[] args) {
