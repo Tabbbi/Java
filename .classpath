@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="arrayTest/src"/>
+	<classpathentry kind="src" path="Manegement/prj_Personal_Manegement/src"/>
+	<classpathentry kind="src" path="Private/src"/>
+	<classpathentry kind="src" path="prj_ArrayTest1/src"/>
+	<classpathentry kind="src" path="prj_BounceBall_complicated/src"/>
+	<classpathentry kind="src" path="prj_BounceBall_simple/src"/>
+	<classpathentry kind="src" path="prj_Box/src"/>
+	<classpathentry kind="src" path="prj_Container_6/src"/>
+	<classpathentry kind="src" path="prj_Container_Management/src"/>
+	<classpathentry kind="src" path="prj_db_vers01/src"/>
+	<classpathentry kind="src" path="prj_db_vers02/src"/>
+	<classpathentry kind="src" path="prj_Encryption/src"/>
+	<classpathentry kind="src" path="prj_Exam/src"/>
+	<classpathentry kind="src" path="prj_fx_Container/src"/>
+	<classpathentry kind="src" path="prj_fx_Exam/src"/>
+	<classpathentry kind="src" path="prj_fx_uid_vers1/src"/>
+	<classpathentry kind="src" path="prj_K1/src"/>
+	<classpathentry kind="src" path="prj_laschen1/src"/>
+	<classpathentry kind="src" path="prj_Market_Manegement/src"/>
+	<classpathentry kind="src" path="prj_Thread_v1/src"/>
+	<classpathentry kind="src" path="prj_Thread_v2/src"/>
+	<classpathentry kind="src" path="prj_WeatherstationTest/src"/>
+	<classpathentry kind="src" path="prjFX_Parkhaus/src"/>
+	<classpathentry kind="src" path="prjFX_Test/src"/>
+	<classpathentry kind="src" path="Test_Arrays/src"/>
+	<classpathentry kind="src" path="Threads_Example1/prj_Thread_v1/src"/>
+	<classpathentry kind="src" path="Threads_Example1/prj_Thread_v2/src"/>
+	<classpathentry kind="lib" path="prj_db_vers01/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="prj_db_vers02/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="Manegement/prj_Personal_Manegement/bin"/>
+</classpath>
